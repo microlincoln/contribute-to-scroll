@@ -1,5 +1,9 @@
 [
   {
+    "contribution-title": "Add percentages of assets to the scroll bridge page. for example 25%, 50%, 75%, 100%",
+    "project-repo": "https://github.com/ethereum-lists/chains/",
+    "contributors": ["Microlincoln"]
+  {
     "contribution-title": "Add Scroll Sepolia to Chainlist",
     "project-repo": "https://github.com/ethereum-lists/chains/",
     "contributors": ["dghelm"]
